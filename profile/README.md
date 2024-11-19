@@ -7,7 +7,7 @@
 ## TODO
 
 # Developer Roles
-> 성준 | 카메라 제어 및 설정  
+> 성준 | ROS 기반 임무 설계  
 > 유신 | AI 개발  
 > 규민 | AI 개발  
 > 성건 | 임무용 GCS 프론트엔드 (UI)  
