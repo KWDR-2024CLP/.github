@@ -19,6 +19,4 @@ drone - kwdr_gcs 소켓통신 구현
 ![IMG_3029](https://github.com/user-attachments/assets/88cc54e7-998c-4ff2-8a98-b2b019744100)
 기체비행 테스트 완료
 
-<video width="820" height="480" controls>
-  <source src="https://github.com/user-attachments/assets/cb94e642-9c23-4d93-900b-05cdd24f4979" type="video/mp4">  
-</video>  
+[![flight video is here!](https://i.sstatic.net/Vp2cE.png)](https://github.com/user-attachments/assets/cb94e642-9c23-4d93-900b-05cdd24f4979)
